@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">. + - &amp; ~ ! % ^ * : ; ? , = | &gt; &lt; /</Keywords>
+            <Keywords name="Operators1">. + - &amp; ~ ! % ^ * : ; ? , = | &gt; &lt; / </Keywords>
             <Keywords name="Operators2">in to</Keywords>
             <Keywords name="Folders in code1, open">{</Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -24,15 +24,15 @@
             <Keywords name="Folders in comment, open">BEGIN</Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close">END</Keywords>
-            <Keywords name="Keywords1">TRUE&#x000D;&#x000A;FALSE&#x000D;&#x000A;AND&#x000D;&#x000A;OR&#x000D;&#x000A;NOT&#x000D;&#x000A;XOR&#x000D;&#x000A;XNOR&#x000D;&#x000A;NOR&#x000D;&#x000A;NAND&#x000D;&#x000A;boolAND&#x000D;&#x000A;boolNAND&#x000D;&#x000A;boolOR&#x000D;&#x000A;boolXOR&#x000D;&#x000A;boolNOR&#x000D;&#x000A;boolXNOR&#x000D;&#x000A;SET&#x000D;&#x000A;TEST&#x000D;&#x000A;CLEAR&#x000D;&#x000A;TOGGLE&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords1">TRUE&#x000D;&#x000A;FALSE&#x000D;&#x000A;NORTH&#x000D;&#x000A;SOUTH&#x000D;&#x000A;EAST&#x000D;&#x000A;WEST&#x000D;&#x000A;NORTHEAST&#x000D;&#x000A;SOUTHEAST&#x000D;&#x000A;NORTHWEST&#x000D;&#x000A;SOUTHWEST&#x000D;&#x000A;UP&#x000D;&#x000A;DOWN&#x000D;&#x000A;ASSERT&#x000D;&#x000A;CRASH&#x000D;&#x000A;removeFromList&#x000D;&#x000A;removeNullsFrom&#x000D;&#x000A;HOURS&#x000D;&#x000A;MINUTES&#x000D;&#x000A;SECONDS&#x000D;&#x000A;__FILE__&#x000D;&#x000A;__LINE__&#x000D;&#x000A;__MAIN__&#x000D;&#x000A;MSG&#x000D;&#x000A;AND&#x000D;&#x000A;OR&#x000D;&#x000A;NOT</Keywords>
             <Keywords name="Keywords2">if&#x000D;&#x000A;return&#x000D;&#x000A;else&#x000D;&#x000A;do&#x000D;&#x000A;while&#x000D;&#x000A;switch&#x000D;&#x000A;for&#x000D;&#x000A;continue&#x000D;&#x000A;goto&#x000D;&#x000A;break&#x000D;&#x000A;spawn&#x000D;&#x000A;call&#x000D;&#x000A;async&#x000D;&#x000A;</Keywords>
             <Keywords name="Keywords3">del&#x000D;&#x000A;qdel&#x000D;&#x000A;new&#x000D;&#x000A;sleep&#x000D;&#x000A;rand&#x000D;&#x000A;alert&#x000D;&#x000A;arglist&#x000D;&#x000A;initial&#x000D;&#x000A;input&#x000D;&#x000A;istype&#x000D;&#x000A;newlist&#x000D;&#x000A;pick&#x000D;&#x000A;prob&#x000D;&#x000A;round&#x000D;&#x000A;typesof&#x000D;&#x000A;proc&#x000D;&#x000A;verb&#x000D;&#x000A;New&#x000D;&#x000A;Destroy&#x000D;&#x000A;Del</Keywords>
-            <Keywords name="Keywords4">const&#x000D;&#x000A;global&#x000D;&#x000A;set&#x000D;&#x000A;static&#x000D;&#x000A;tmp&#x000D;&#x000A;step&#x000D;&#x000A;arg&#x000D;&#x000A;args&#x000D;&#x000A;as</Keywords>
+            <Keywords name="Keywords4">const&#x000D;&#x000A;global&#x000D;&#x000A;set&#x000D;&#x000A;static&#x000D;&#x000A;tmp&#x000D;&#x000A;step&#x000D;&#x000A;arg&#x000D;&#x000A;args&#x000D;&#x000A;as&#x000D;&#x000A;usr</Keywords>
             <Keywords name="Keywords5">null&#x000D;&#x000A;file&#x000D;&#x000A;list&#x000D;&#x000A;var&#x000D;&#x000A;atom&#x000D;&#x000A;movable&#x000D;&#x000A;area&#x000D;&#x000A;turf&#x000D;&#x000A;obj&#x000D;&#x000A;mob&#x000D;&#x000A;image&#x000D;&#x000A;icon&#x000D;&#x000A;sound&#x000D;&#x000A;datum&#x000D;&#x000A;client&#x000D;&#x000A;world&#x000D;&#x000A;savefile&#x000D;&#x000A;gem&#x000D;&#x000A;overlays&#x000D;&#x000A;underlays&#x000D;&#x000A;src</Keywords>
-            <Keywords name="Keywords6">__FILE__&#x000D;&#x000A;__LINE__&#x000D;&#x000A;__MAIN__&#x000D;&#x000A;ASSERT&#x000D;&#x000A;CRASH&#x000D;&#x000A;GDWOUT&#x000D;&#x000A;GDWLOG&#x000D;&#x000A;GFXERR&#x000D;&#x000A;GFXLOG&#x000D;&#x000A;RETRY_IN&#x000D;&#x000A;isOdd&#x000D;&#x000A;isPowerOfTwo&#x000D;&#x000A;HasFlag&#x000D;&#x000A;AddFlag&#x000D;&#x000A;RemoveFlag&#x000D;&#x000A;ToggleFlag&#x000D;&#x000A;GFXERR_MISS&#x000D;&#x000A;GFX_INCSTAT&#x000D;&#x000A;GFX_DEBUG_STATS&#x000D;&#x000A;GFX_DEBUG_SANITY&#x000D;&#x000A;GENERR_MISS&#x000D;&#x000A;GEN_INCSTAT&#x000D;&#x000A;GEN_DEBUG_STATS&#x000D;&#x000A;GEN_DEBUG_SANITY&#x000D;&#x000A;usr</Keywords>
-            <Keywords name="Keywords7">#elif&#x000D;&#x000A;#else&#x000D;&#x000A;#warn&#x000D;&#x000A;#error&#x000D;&#x000A;#include&#x000D;&#x000A;defined</Keywords>
-            <Keywords name="Keywords8">//TODO TODO&#x000D;&#x000A;//FIXME FIXME&#x000D;&#x000A;//WHY WHY&#x000D;&#x000A;//BYOND BYOND&#x000D;&#x000A;//INPUT INPUT&#x000D;&#x000A;//OUTPUT OUTPUT</Keywords>
-            <Keywords name="Delimiters">00( 00{ 01 02) 02} 03{&quot; 04 05&quot;} 06[ 07 08] 09&lt;a 09&lt;A 09&lt;b 09&lt;B 09&lt;s 09&lt;S 09&lt;f 09&lt;F 09&lt;/ 09&lt;h 09&lt;H 09&lt;I 09&lt;c 10 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 12&quot; 12&apos; 13\ 13\ 14(( &quot; EOL )) 14(( &apos; EOL )) 15 16 17 18 19 20 21#define 21#undef 22 23((EOL)) 23((EOL))</Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7">#elif&#x000D;&#x000A;#else&#x000D;&#x000A;#warn&#x000D;&#x000A;#error&#x000D;&#x000A;#include&#x000D;&#x000A;#define&#x000D;&#x000A;#undef&#x000D;&#x000A;defined</Keywords>
+            <Keywords name="Keywords8">//TODO TODO&#x000D;&#x000A;//FIXME FIXME&#x000D;&#x000A;//INPUT INPUT&#x000D;&#x000A;//OUTPUT OUTPUT&#x000D;&#x000A;//BEGIN BEGIN&#x000D;&#x000A;//END END</Keywords>
+            <Keywords name="Delimiters">00( 00{ 01 02) 02} 03 04 05 06[ 07 08] 09&lt;a 09&lt;A 09&lt;b 09&lt;B 09&lt;s 09&lt;S 09&lt;f 09&lt;F 09&lt;/ 09&lt;h 09&lt;H 09&lt;I 09&lt;c 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 10\ 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 11&gt; 12&quot; 12&apos; 13\ 13\ 14&quot; 14&apos; 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle name="DEFAULT" fgColor="909090" bgColor="202020" fontName="" fontStyle="0" nesting="0" />
