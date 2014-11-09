@@ -6,7 +6,7 @@ See http://imgur.com/dgLRxHV for an example.
 
 How to:
 * Install and run NP++
-* Go to "Language" > "Define your language..." and import dm.udl
+* Go to "Language" > "Define your language..." and import dm_udl.xml
 * Go to "Run", and type in a CLI command for compiling.
 * If you're on windows, here's what mine looks like (yes you need the quotes):
 
